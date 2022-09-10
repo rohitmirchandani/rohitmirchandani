@@ -12,5 +12,5 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, MySQL, React, Node, Express, Bootstrap.
+Javascript, Java, Python, HTML, CSS, MySQL, React, Node, Express, Bootstrap.
 
